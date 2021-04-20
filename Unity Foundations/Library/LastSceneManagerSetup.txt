@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scene Cube.unity
+- path: Assets/Scenes/Monument.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
